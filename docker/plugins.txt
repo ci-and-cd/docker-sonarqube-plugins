@@ -23,7 +23,9 @@ https://repox.sonarsource.com/sonarsource/org/sonarsource/xml/sonar-xml-plugin/1
 # see: https://github.com/stevespringett/dependency-check-sonar-plugin
 #https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/sonar-dependency-check-1.0.3/sonar-dependency-check-plugin-1.0.3.jar
 #https://bintray.com/artifact/download/stevespringett/owasp/org/sonarsource/owasp/sonar-dependency-check-plugin/1.0.3/sonar-dependency-check-plugin-1.0.3.jar
-https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.1.2/sonar-dependency-check-plugin-1.1.2.jar
+https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.1.1/sonar-dependency-check-plugin-1.1.1.jar
+# Version 1.1.2 of Plugin Dependency-Check [dependencycheck] requires at least SonarQube 6.7.5
+#https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.1.2/sonar-dependency-check-plugin-1.1.2.jar
 # Version 1.2.0 of Plugin Dependency-Check [dependencycheck] requires at least SonarQube 7.3
 #https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.2.0/sonar-dependency-check-plugin-1.2.0.jar
 # see: https://github.com/SonarSource/sonar-scm-git
@@ -85,13 +87,14 @@ https://binaries.sonarsource.com/Distribution/sonar-jacoco-plugin/sonar-jacoco-p
 #https://github.com/arturbosch/sonar-kotlin/releases/download/0.5.2/sonar-kotlin-0.5.2.jar
 # see: https://docs.sonarqube.org/display/PLUG/SonarKotlin
 https://binaries.sonarsource.com/Distribution/sonar-kotlin-plugin/sonar-kotlin-plugin-1.2.1.2009.jar
+# see: https://docs.sonarqube.org/display/PLUG/SonarGo
+https://repox.sonarsource.com/sonarsource/org/sonarsource/go/sonar-go-plugin/1.1.0.1612/sonar-go-plugin-1.1.0.1612.jar
 # see: https://github.com/Backelite/sonar-swift
+# requires license
 #https://github.com/Backelite/sonar-swift/releases/download/0.3.5/backelite-sonar-swift-plugin-0.3.5.jar
 #https://github.com/Backelite/sonar-swift/releases/download/0.4.2/backelite-sonar-swift-plugin-0.4.2.jar
 # see: https://docs.sonarqube.org/display/PLUG/SonarSwift
-https://binaries.sonarsource.com/CommercialDistribution/sonar-swift-plugin/sonar-swift-plugin-4.0.0.2853.jar
-# see: https://docs.sonarqube.org/display/PLUG/SonarGo
-https://repox.sonarsource.com/sonarsource/org/sonarsource/go/sonar-go-plugin/1.1.0.1612/sonar-go-plugin-1.1.0.1612.jar
+#https://binaries.sonarsource.com/CommercialDistribution/sonar-swift-plugin/sonar-swift-plugin-4.0.0.2853.jar
 
 # see: https://github.com/SonarSource/sonar-javascript
 #https://sonarsource.bintray.com/Distribution/sonar-javascript-plugin/sonar-javascript-plugin-4.1.0.6085.jar
