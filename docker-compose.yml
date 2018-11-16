@@ -1,0 +1,7 @@
+version: '2.1'
+services:
+  # data container provide plugins
+  develop-sonarqube-plugins:
+    build: .
+    image: ${IMAGE_PREFIX:-cirepo/}sonarqube-plugins:${IMAGE_TAG:-6.7.3-alpine}
+    container_name: ${CONTAINER_HOST_NAME:-standalone.sonarqube}-plugins
