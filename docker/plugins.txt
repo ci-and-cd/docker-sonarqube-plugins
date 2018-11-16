@@ -23,8 +23,9 @@ https://repox.sonarsource.com/sonarsource/org/sonarsource/xml/sonar-xml-plugin/1
 # see: https://github.com/stevespringett/dependency-check-sonar-plugin
 #https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/sonar-dependency-check-1.0.3/sonar-dependency-check-plugin-1.0.3.jar
 #https://bintray.com/artifact/download/stevespringett/owasp/org/sonarsource/owasp/sonar-dependency-check-plugin/1.0.3/sonar-dependency-check-plugin-1.0.3.jar
-#https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.1.1/sonar-dependency-check-plugin-1.1.1.jar
-https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.2.0/sonar-dependency-check-plugin-1.2.0.jar
+https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.1.2/sonar-dependency-check-plugin-1.1.2.jar
+# Version 1.2.0 of Plugin Dependency-Check [dependencycheck] requires at least SonarQube 7.3
+#https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/1.2.0/sonar-dependency-check-plugin-1.2.0.jar
 # see: https://github.com/SonarSource/sonar-scm-git
 #http://central.maven.org/maven2/org/sonarsource/scm/git/sonar-scm-git-plugin/1.4.1.1128/sonar-scm-git-plugin-1.4.1.1128.jar
 http://central.maven.org/maven2/org/sonarsource/scm/git/sonar-scm-git-plugin/1.6.0.1349/sonar-scm-git-plugin-1.6.0.1349.jar
