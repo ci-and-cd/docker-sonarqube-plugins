@@ -38,7 +38,7 @@ https://github.com/SonarQubeCommunity/sonar-groovy/releases/download/1.6-RC1/son
 # see: https://github.com/webdizz/sonarqube-spellcheck
 #https://github.com/webdizz/sonarqube-spellcheck/releases/download/93e6738/sonarqube-spellcheck-plugin-0.1.1.RC.jar
 # see: https://github.com/davidetaibi/sonarqube-anti-patterns-code-smells
-https://github.com/davidetaibi/sonarqube-anti-patterns-code-smells/releases/download/0.7/Code_Smells-0.7.jar
+https://github.com/davidetaibi/sonarqube-anti-patterns-code-smells/releases/download/0.7/sonar-codesmellsantipatterns-plugin-0.7.jar
 # see: https://github.com/kogitant/sonar-slack-notifier-plugin
 https://github.com/kogitant/sonar-slack-notifier-plugin/releases/download/2.1.2/cks-slack-notifier-2.1.2.jar
 
@@ -109,7 +109,7 @@ https://github.com/racodond/sonar-json-plugin/releases/download/2.3/sonar-json-p
 # see: https://github.com/SonarQubeCommunity/sonar-erlang
 https://github.com/SonarQubeCommunity/sonar-erlang/releases/download/1.3/sonar-erlang-plugin.jar
 # see: https://github.com/SonarQubeCommunity/sonar-lua
-https://github.com/SonarQubeCommunity/sonar-lua/releases/download/v1.1/sonar-lua-plugin-1.1.jar
+https://github.com/SonarQubeCommunity/sonar-lua/releases/download/v1.1/original-sonar-lua-plugin-1.1.jar
 # see: https://docs.sonarqube.org/display/PLUG/SonarPython
 https://binaries.sonarsource.com/Distribution/sonar-python-plugin/sonar-python-plugin-1.10.0.2131.jar
 # see: https://docs.sonarqube.org/display/PLUG/SonarRuby
